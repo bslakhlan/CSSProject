@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+}
+#box1{
+    background-color: aqua;
+}
+#box2{
+    background-color: pink;
+}
+#box3{
+    background-color: darkkhaki;
+}
+#box4{
+    background-color: indianred;
+}
+#box5{
+    background-color: slateblue;
+}
+/* *{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#NavBar{
+    height: 60px;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    color: #0f1111;
+    border: 2px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+#contentsys{
+    height:  700px;
+}
+body{
+    background-image: url("bob.jpg");
+    background-size: cover;
+}
+footer{
+    background-color: #0f1111;
+}
+#box1{
+    background-image: url("bob.jpg");
+    background-size: cover;
+} */
+/* div{
+    position: fixed;
+    right: 0px;
+    color: white;
+    width: 100px;
+    height: 100px;
+    top: 10px;
+    background-image: url("bob.jpg");
+    background-size: cover;
+} */
